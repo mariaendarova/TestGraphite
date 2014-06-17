@@ -10,8 +10,7 @@
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
-    "1",
-    "2"
+    "1"
   ],
   "iOSBackgroundMode": [],
   "WP8TileTitle": "",
@@ -42,9 +41,7 @@
     "android.permission.WRITE_CONTACTS",
     "android.permission.WRITE_EXTERNAL_STORAGE"
   ],
-  "DeviceOrientations": [
-    "Landscape"
-  ],
+  "DeviceOrientations": [],
   "AndroidHardwareAcceleration": "false",
   "iOSStatusBarStyle": "Default",
   "WP8SupportedResolutions": [
@@ -53,5 +50,5 @@
     "ID_RESOLUTION_HD720P"
   ],
   "Framework": "Cordova",
-  "TemplateAppName": "Cordova270"
+  "TemplateAppName": "Cordova240"
 }
